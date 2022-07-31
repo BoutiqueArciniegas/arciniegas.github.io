@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Boutique Arciniegas
 
-You can use the [editor on GitHub](https://github.com/BoutiqueArciniegas/arciniegas.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Nosotros nos encargamos de entregarle los mejores vestidos y accesorios de 15 años, bodas, bautizos y primera comunion al mejor precio
 
 ### Markdown
 

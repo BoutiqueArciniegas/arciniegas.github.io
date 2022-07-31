@@ -1,4 +1,4 @@
-![Capa 1](https://user-images.githubusercontent.com/110316822/182044975-a50c5eb2-f6f0-4430-908d-8b95a39379e3.png)
+![WhatsApp Image 2022-07-30 at 9 26 16 PM](https://user-images.githubusercontent.com/110316822/182045425-598d0de4-d872-473b-821b-c6e527050f79.png)
 
 
 ## Boutique Arciniegas

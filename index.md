@@ -2,34 +2,17 @@
 
 Nosotros nos encargamos de entregarle los mejores vestidos y accesorios de 15 años, bodas, bautizos y primera comunion al mejor precio
 
-### Markdown
+### ¿Porque nosotros?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+En Boutique Arciniegas tratamos de siempre birndarle el mejor servicio ademas de eso nuestros vestidos y accesorios estan en optimas condiciones por lo que tiene la certeza de que lo que desee va a estar disponible y en buen estado 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### ¿Donde nos encuentra?
 
-- Bulleted
-- List
+Nuestro local se encuentra en Calle 14 #8-20 Girardot
 
-1. Numbered
-2. List
+### ¿Desea contactarse con nosotros?
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BoutiqueArciniegas/arciniegas.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+llame o escriba al siguiente whatsapp: 320 288 8962
+Puede encontrarnos en instagram y facebook como: Boutique Arciniegas
+Envie un Correo al siguiente email:arciniegasventayalquiler@gmail.com

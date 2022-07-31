@@ -1,3 +1,6 @@
+![Capa 1](https://user-images.githubusercontent.com/110316822/182044975-a50c5eb2-f6f0-4430-908d-8b95a39379e3.png)
+
+
 ## Boutique Arciniegas
 
 Nosotros nos encargamos de entregarle los mejores vestidos y accesorios de 15 años, bodas, bautizos y primera comunion al mejor precio
